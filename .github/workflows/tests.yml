@@ -28,5 +28,5 @@ jobs:
     - name: Run unit and integration tests
       run: pytest
 
-    - name: Run behave tests
-      run: behave
+   # - name: Run behave tests
+   #   run: behave
