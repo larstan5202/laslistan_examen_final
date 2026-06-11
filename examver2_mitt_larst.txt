@@ -1,3 +1,7 @@
-https://github.com/larstan5202/examensuppgift_ver2
+https://github.com/larstan5202/laslistan_examen_final
 
-G-krav
+G-krav:
+- Alla tester är gröna
+- Projektet följer mappstrukturen
+- CI kör pytest + behave
+
