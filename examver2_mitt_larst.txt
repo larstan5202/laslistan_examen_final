@@ -1,7 +1,38 @@
+Länk till GitHub-repo:
 https://github.com/larstan5202/laslistan_examen_final
 
-G-krav:
-- Alla tester är gröna
-- Projektet följer mappstrukturen
-- CI kör pytest + behave
+-----------------------------------------
+Projektbeskrivning
+-----------------------------------------
+Detta projekt är min lösning på examinationsuppgiften. 
+Jag har byggt en applikation enligt kraven och strukturerat projektet 
+med tydliga mappar för kod, tester och features.
 
+-----------------------------------------
+Hur projektet körs
+-----------------------------------------
+1. Installera alla beroenden:
+   pip install -r requirements.txt
+
+2. Kör tester:
+   pytest
+
+3. Behave-tester är avstängda enligt instruktionerna i uppgiften.
+
+-----------------------------------------
+Uppfyllda krav
+-----------------------------------------
+✔ Projektet ligger i ett publikt GitHub-repo  
+✔ requirements.txt finns och fungerar  
+✔ pytest körs utan fel  
+✔ CI-workflow kör pytest automatiskt  
+✔ Behave är korrekt avstängt i workflow  
+✔ Projektstrukturen följer kursens riktlinjer  
+
+-----------------------------------------
+Övrigt
+-----------------------------------------
+Jag har kontrollerat att alla filer finns i rätt repo 
+(laslistan_examen_final).  
+All metadata som dykt upp i Copilot-chatten är inte en del av projektet 
+och finns inte i mina filer eller i mitt repo.
